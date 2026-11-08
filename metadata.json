@@ -1,0 +1,6 @@
+{
+  "name": "Neon Beats & Snake Arcade",
+  "description": "Cyberpunk dark neon music player with synthetic beats and an integrated audio-reactive snake arcade game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
